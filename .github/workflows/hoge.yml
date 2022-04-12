@@ -9,4 +9,4 @@ jobs:
     steps:
 
     - name: mkdir hoge
-      run: mkdir hogehogehoge
+      run: mkdir /root/hogehogehoge
